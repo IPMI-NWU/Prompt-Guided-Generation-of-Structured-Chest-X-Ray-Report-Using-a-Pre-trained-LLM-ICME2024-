@@ -1,0 +1,1 @@
+# Prompt-Guided-Generation-of-Structured-Chest-X-Ray-Report-Using-a-Pre-trained-LLM-ICME2024-
